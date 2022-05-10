@@ -1,11 +1,13 @@
 <style>
 
-p {
-    text-decoration: solid;
-}
-
 body {
     background-color: yellow;
+}
+
+p {
+    font-weight: bold;
+    text-align: center;
+    color: blue;
 }
 
 h2 {
@@ -14,9 +16,6 @@ h2 {
 
 .images { 
     width: 200px;
-    border-width: 10px;
-    border-color: blue;
-
 }
 
 </style>
