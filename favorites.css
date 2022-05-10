@@ -1,0 +1,22 @@
+<style>
+
+p {
+    text-decoration: solid;
+}
+
+body {
+    background-color: yellow;
+}
+
+h2 {
+    color: red;
+}
+
+.images { 
+    width: 200px;
+    border-width: 10px;
+    border-color: blue;
+
+}
+
+</style>
